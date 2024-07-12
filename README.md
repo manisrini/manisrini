@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manisrini
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning mobile development
+- 🌱 Working as an iOS developer
 
 - 📫 How to reach me ...MY PORTFOLIO LINK
 - https://portfolio-a07c5.web.app/
